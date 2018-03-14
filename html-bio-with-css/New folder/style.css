@@ -1,0 +1,19 @@
+body{
+  background-color: blue;
+  padding: 0;
+  margin: 0;
+}
+h1{
+  background-color: rgb(191, 211, 212);
+  text-align: center;
+  padding: 0;
+  margin: 0; 
+}
+
+h2{
+  text-align: center;
+}
+
+#bio-image{
+  align-self: auto;
+}
