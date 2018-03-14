@@ -1,2 +1,0 @@
-# butlerjonathan.github.io
-webpage
